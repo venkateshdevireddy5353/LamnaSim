@@ -1,0 +1,11 @@
+{
+  "name": "cpm",
+  "expo": {
+    "slug": "LamnaSim",
+    "name": "cpm",
+    "owner": "venkatesh.devireddy",
+    "android": {
+      "package": "com.venkatesh.devireddy.LamnaSim"
+    }
+  }
+}
